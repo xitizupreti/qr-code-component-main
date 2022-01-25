@@ -22,7 +22,7 @@ Just a simple QR Code Scan Page with the help of HTML5 & CSS3.
 ### Screenshot
 
 ![Mobile SS](./design/mobile-design.jpg)
-[Desktop SS](./design/desktop-design.jpg)
+![Desktop SS](./design/desktop-design.jpg)
 
 ### Links
 
@@ -62,7 +62,8 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-```justify-content — controls alignment of all items on the main axis. align-items — controls alignment of all items on the cross axis.```
+```justify-content — controls alignment of all items on the main axis.```
+```align-items — controls alignment of all items on the cross axis.```
 
 ### Useful resources
 
