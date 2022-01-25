@@ -17,17 +17,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+Just a simple QR Code Scan Page with the help of HTML5 & CSS3.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Mobile SS](./design/mobile-design.jpg)
+[Desktop SS](./design/desktop-design.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-Solution Live Site URL: [https://xitizupreti.github.io/qr-code-component-main/](https://xitizupreti.github.io/qr-code-component-main/)
 
 ## My process
+
+I first created HTML DOM model in my NoteCopy and Deployed it in VS Code. It was easy to solve. After that I put CSS Design which was quite hard for me. But after few hours my friend gave me idea for it and solved easily.
 
 ### Built with
 
@@ -36,9 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -62,12 +62,12 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+```justify-content — controls alignment of all items on the main axis. align-items — controls alignment of all items on the cross axis.```
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [@Media Rule](https://www.w3schools.com/cssref/css3_pr_mediaquery.asp) - This is an amazing article which helped me finally understand CSS @media Rule. I'd recommend it to anyone still learning this concept.
+
 
 ## Author
 
