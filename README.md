@@ -60,7 +60,7 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-```justify-content — controls alignment of all items on the main axis.```
+```justify-content — controls alignment of all items on the main axis.```<br><br>
 ```align-items — controls alignment of all items on the cross axis.```
 
 ### Useful resources
